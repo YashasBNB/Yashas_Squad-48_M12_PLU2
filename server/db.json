@@ -1,0 +1,24 @@
+{
+    "doors": [
+    {
+      "id": "1",
+      "name": "Front Door",
+      "status": "open"
+    },
+    {
+      "id": "2",
+      "name": "Back Door",
+      "status": "closed"
+    },
+    {
+      "id": "3",
+      "name": "Garage Door",
+      "status": "open"
+    },
+    {
+      "id": "4",
+      "name": "Window",
+      "status": "closed"
+    }
+  ]
+}
